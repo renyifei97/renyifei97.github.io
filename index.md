@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://renyifei97.github.io/renyifei.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yifei Ren (Enzo, 任逸飞)**.
 
