@@ -7,18 +7,18 @@ url: https://renyifei97.github.io
 # Owner/author information
 owner:
   name: Yifei Ren
-  avatar: https://renyifei97.github.io/yifei.jpg
+  avatar: https://renyifei97.github.io/images/yifei.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 22110302@bjtu.edu.cn
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  #twitter: lancecai2002
   github: renyifei97
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #linkedin: hanlincai
+  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  #zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -38,16 +38,16 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
+  - #title: Teams
+    #url: /teams/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - #title: Hobbies
+    #url: /hobbies/
+  - #title: Blogs
+    #url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
