@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-> Lastest Update: 14th Augest 2024&nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/file/index-zh/)
+> Lastest Update: 14th Augest 2024&nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/index-zh/)
 
 # About Me
 
