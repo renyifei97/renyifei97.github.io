@@ -10,7 +10,7 @@ owner:
   avatar: yifei.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 22110302@bjtu.edu.cn
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://renyifei97.github.io/file/任逸飞简历2.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: renyifei97
@@ -44,6 +44,8 @@ links:
     # url: /teams/
   - title: Publications
     url: /publications/
+  - title: Projects
+    url: /projects/
   - title: Awards
     url: /awards/
   - # title: Hobbies
