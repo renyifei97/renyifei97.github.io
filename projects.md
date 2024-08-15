@@ -4,35 +4,36 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/projects-zh/)
+> Lastest Update:15th Augest 2024 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/projects-zh/)
 
-## Scholarships
+## During the master's program
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Special Survey on Urban Public Transport in Nanchang City in 2019
+- Traffic Organization Plan during the Construction Period of Hongdu Avenue Building Facade Upgrading and Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of Xiangshan Road and Dieshan Road Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of Nanchang Customs Bridge and Surrounding Road Renovation Project
+- Traffic Organization Plan during the Construction Period of the Second Batch of Rainwater and Sewage Pipe Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of Taohua South Road Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of the Yangtze River Zhongbei Avenue Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of Beijing Intersection Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of Hongdu Avenue Pipeline Relocation and Renovation Project in Nanchang City
+- Yugan County Smart Transportation Construction Project
+- Traffic Organization Plan during the Construction of Jiulong Lake Cross River Bridge Project
+- Traffic Organization Plan during the Construction Period of Nanchang Rail Transit Line 1 East Extension Project
+- Traffic Organization Plan during the Construction Period of S49 Fengsheng Expressway Upgrading and Renovation Project
+- Traffic Organization Plan during the Construction Period of Yuping East Street Renovation Project in Nanchang City
+- Traffic Organization Plan during the Construction Period of Ruzi Road Renovation Project in Nanchang City
 
-## Competitions (Selected)
+## During the doctoral period
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
-
-## Services
-
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- Development of passenger flow prediction software for Chengdu Metro Passenger Service Management Platform (NCCC) project, Chengdu Metro Operation Company, 200000 yuan.
+- Simulation architecture and supporting technology for urban multimodal transportation system based on big data, national key research and development plan (task), 220000 yuan.
+- Suzhou Metro Network Command Center (NCC) Passenger Flow Prediction Project, Suzhou Metro, 1.9 million yuan.
+- Suzhou Metro Network Command Center (NCC) Network and Line Simulation Project, Suzhou Metro, 1.06 million yuan.
+- Passenger flow simulation system testing for urban rail transit network, Ministry of Transport Scientific Research Institute, 90000 yuan.
+- Research on the dynamic adaptation mechanism and optimization technology of high-speed railway network passenger flow in the dimension of time and space, basic research and business expenses, 100000 yuan.
+- Research on the Construction and Development of Beijing Comprehensive Three dimensional Transportation Network, Beijing Jiaotong University Beijing Comprehensive Transportation Center, 50000 yuan.
+- Research on the Evolution Technology of Local Failure and Impact Fluctuations in the Networked Operation of Urban Rail Transit, China Academy of Sciences, Ministry of Transport, 50000 yuan.
+- Research and development of panoramic perception prediction and analysis platform for urban rail transit network passenger flow, Beijing Metro Operation Co., Ltd., 3.76 million yuan.
+- Research and development of intelligent compilation and management platform for urban rail transit networked train operation plan, Beijing Metro Operation Co., Ltd., 3.35 million yuan.
+- Technology Demonstration Project of the Ministry of Transport: NCC System of Shenzhen Rail Transit Network Operation Control Center (NOCC) Phase II Project, 2.656 million yuan.
