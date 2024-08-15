@@ -17,7 +17,7 @@ title: Awards
 
 ## Research Competition
 
-- June 2020, Second Prize in the 2020 Jiangxi Province Graduate Mathematical Modeling Competition
-- Third Prize in the 17th China Graduate Mathematical Modeling Competition "Huawei Cup" in September 2020
-- June 2021 Jiangxi Province Graduate Mathematical Modeling Competition
+- 2020.06  2020 Jiangxi Province Graduate Mathematical Modeling Competition  Second Prize
+- 2020.09  "Huawei Cup" 17th China Graduate Mathematical Modeling Competition  Third Prize
+- 2021.06  2021 Jiangxi Province Graduate Mathematical Modeling Competition  First Prize
 <br>
