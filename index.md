@@ -5,8 +5,9 @@ layout: page
 
 ## About Me
 
-<img src="https://renyifei97.github.io/images/renyifei.jpg" class="floatpic" width="360" height="480">
+<img src="https://renyifei97.github.io/images/yifei.jpg" class="floatpic" width="360" height="480">
 
+<br/>
 Here is **Yifei Ren (Enzo, 任逸飞)**.
 
 I am a PhD student majoring in Transportation Planning and Management at Beijing Jiaotong University. I am studying in the team led by Professor Jinjin Tang. I am from Zhenjiang City, Jiangsu Province, born in 1997, and I am 27 years old this year.
@@ -20,7 +21,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2019 - June 2022:** East China Jiaotong University (Master Degree, Transportation Planning and Management, Master's supervisor: Professor Weixiong Zha)
 - **Sep 2015 - June 2019:** East China Jiaotong University (Bachelor Degree, Transportation, Double Degree: Bachelor of Management, Human Resource Management)
 
----
 
 ## Research Direction
 

@@ -7,8 +7,9 @@ title: index-zh
 
 ## 关于我
 
-<img src="https://renyifei97.github.io/images/renyifei.jpg" class="floatpic" width="360" height="480">
+<img src="https://renyifei97.github.io/images/yifei.jpg" class="floatpic" width="360" height="480">
 
+<br/>
 我是**任逸飞 (Enzo)**。
 
 我是北京交通大学交通规划与管理专业的博士生。我在唐金金教授领导的团队学习。我来自江苏省镇江市，出生于1997年，今年27岁。
