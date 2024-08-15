@@ -8,16 +8,16 @@ title: Awards
 
 ## Academic Scholarship
 
-- 2019 Provincial Scholarship 10000 yuan
-- 2020 Provincial Scholarship 10000 yuan
-- 2021 Provincial Scholarship 10000 yuan
-- 2022 First Class Scholarship 14000 yuan
-- 2023 Second Class Scholarship 12000 yuan
+- 2019 Provincial Scholarship
+- 2020 Provincial Scholarship
+- 2021 Provincial Scholarship
+- 2022 First Class Scholarship
+- 2023 Second Class Scholarship
 <br>
 
 ## Research Competition
 
-- 2020.06  2020 Jiangxi Province Graduate Mathematical Modeling Competition  Second Prize
+- 2020.06  Jiangxi Province Graduate Mathematical Modeling Competition  Second Prize
 - 2020.09  "Huawei Cup" 17th China Graduate Mathematical Modeling Competition  Third Prize
-- 2021.06  2021 Jiangxi Province Graduate Mathematical Modeling Competition  First Prize
+- 2021.06  Jiangxi Province Graduate Mathematical Modeling Competition  First Prize
 <br>
