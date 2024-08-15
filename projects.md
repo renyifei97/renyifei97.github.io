@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /projects/index.html
+title: Projects
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/awards-zh/)
+> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/projects-zh/)
 
 ## Scholarships
 
