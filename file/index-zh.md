@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /index-zh.html
+title: index-zh
 ---
 > 更新时间：2024/08/14 &nbsp;  [English Version (英文)](https://renyifei97.github.io/)
 
