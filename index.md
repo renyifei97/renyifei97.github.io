@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-> Lastest Update: 14th Augest 2024&nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/file/index-zh/)
+> Lastest Update: 15th Augest 2024&nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/file/index-zh/)
 
 ## About Me
 
@@ -30,5 +30,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Dynamic fare setting for urban rail transit
 - Intelligent compilation of urban rail transit operation diagram
 - Optimization of operation scheme
+<br/>
 
 My current research focus is on the application of short-term passenger flow forecasting in practical engineering. My interests are on the **Machine Learning** and its applications in **Urban Rail Transit**. In a word, advanced technologies like ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.

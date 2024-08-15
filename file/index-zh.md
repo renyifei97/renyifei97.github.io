@@ -3,7 +3,7 @@ layout: page
 permalink: file/index-zh/index.html
 title: index-zh
 ---
-> 更新时间：2024/08/14 &nbsp;  [English Version (英文)](https://renyifei97.github.io/)
+> 更新时间：2024/08/15 &nbsp;  [English Version (英文)](https://renyifei97.github.io/)
 
 ## 关于我
 
@@ -32,5 +32,6 @@ title: index-zh
 - 城轨动态票价制定
 - 城轨运行图智能编制
 - 开行方案优化
+<br/>
 
 我目前的研究重点是短期客流预测在实际工程中的应用。我的兴趣是**机器学习**及其在**城市轨道交通**中的应用。总之，像机器学习这样的先进技术对每个人的生活都有积极的影响。我希望将我的才能奉献给这一有意义的事业，为社会带来福祉。

@@ -4,28 +4,29 @@ permalink: /file/publications-zh/index.html
 title: Publications-zh
 ---
 
-> 更新时间：2024/01/28 &nbsp;  [English Version (英文)](https://renyifei97.github.io/publications/)
+> 更新时间：2024/08/15 &nbsp;  [English Version (英文)](https://renyifei97.github.io/publications/)
 
-## 数学建模竞赛论文
+## 期刊论文
 
-- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名 (排名前1%)<br>
+- [基于理想点法的高速铁路列车停站方案优化](https://renyifei97.github.io/mypaper/journalpaper/基于理想点法的高速铁路列车停站方案优化_查伟雄.pdf)<br>查伟雄, **任逸飞**, 李剑, 严利鑫<br>北京交通大学学报 (CSCD) 2022.08
 
-  
+- [基于态势感知理念的交通运输网络安全体系构建](https://renyifei97.github.io/mypaper/journalpaper/基于态势感知理念的交通运输网络安全体系构建_黄祯晨.pdf)<br>黄祯晨, **任逸飞**<br>  2022.03
 
-- [基于改进型调度算法的无人机遂行编队飞行研究](https://caihanlin.com/mypaper/modeling/202209CUMCM.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年09月“高教社杯”全国大学生数学建模竞赛福建赛区本科组一等奖 (排名前6%)<br>
+- [基于车流接续代价最小的编组站配流计划优化研究](https://renyifei97.github.io/mypaper/journalpaper/基于车流接续代价最小的编组站配流计划优化研究_许可.pdf)<br>许可, 马海东, 赵鹏, 马亚峰, **任逸飞**<br>铁道运输与经济 (CSSCI) 2021.02
 
-  
+  <br>
 
-- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206FZU.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组三等奖 (排名前15%)<br>
 
-<br>
+---
 
-## 工业实习报告
+## 学位论文
 
-- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告 (2023/02 — 2023/06)<br>
+- [基于大客流优先分配法的高速铁路列车停站方案优化](https://renyifei97.github.io/mypaper/thesis/基于大客流优先分配法的高速铁路列车停站方案优化.pdf)<br>**任逸飞** (硕士导师：查伟雄)<br>华东交通大学 2022 硕士学位论文<br>江西省优秀硕士毕业论文
 
-<br>
+  <br>
 
-## 毕业设计论文
+---
 
-- [面向低功耗蓝牙网络的复合型欺骗攻击检测机制](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>本科毕业设计论文（2023/12 — 2024/05）<br>本项目以海报论文形式，发表在AAAI 2024 UC，计划进一步投稿至KDD 2024
+## 会议论文
+
+- 无
