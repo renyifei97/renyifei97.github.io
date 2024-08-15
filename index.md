@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Direction
 
 - Urban rail big data passenger flow analysis
-- Urban rail passenger flow forecast
+- Multi scenario passenger flow prediction for urban rail transit
 - Dynamic fare setting for urban rail transit
 - Intelligent compilation of urban rail transit operation diagram
 - Optimization of operation scheme
