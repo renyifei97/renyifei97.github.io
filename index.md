@@ -3,11 +3,10 @@ layout: page
 ---
 > Lastest Update: 14th Augest 2024&nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/file/index-zh/)
 
-# About Me
+## About Me
 
 <img src="https://renyifei97.github.io/images/renyifei.jpg" class="floatpic" width="360" height="480">
 
- 
 Here is **Yifei Ren (Enzo, 任逸飞)**.
 
 I am a PhD student majoring in Transportation Planning and Management at Beijing Jiaotong University. I am studying in the team led by Professor Jinjin Tang. I am from Zhenjiang City, Jiangsu Province, born in 1997, and I am 27 years old this year.
