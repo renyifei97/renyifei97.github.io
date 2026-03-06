@@ -4,7 +4,7 @@ permalink: /file/projects-zh/index.html
 title: Projects-zh
 ---
 
-> 更新时间：2024/08/15 &nbsp; [English Version (英文)](https://renyifei97.github.io/projects/)
+> 更新时间：2026/03/06 &nbsp; [English Version (英文)](https://renyifei97.github.io/projects/)
 
 ## 博士期间
 
@@ -16,6 +16,7 @@ title: Projects-zh
 - 深圳市轨道交通网络运营控制中心（NOCC）二期工程NCC系统，**交通运输部科技示范工程**，2022-2024，参与。
 
 博士期间参与**自然科学横向项目**十余项，主要包括**北京、深圳、成都、重庆、苏州、武汉、西安**等地的城市轨道交通客流预测系统、客流仿真系统、运行图智能编制系统等。硕士期间参与施工期间道路交通组织方案设计项目十余项。
+
 - 成都地铁客运服务管理平台(NCCC)项目客流预测软件开发，成都地铁运营公司，20万。
 - 苏州地铁线网指挥中心(NCC)客流预测项目，苏州地铁，190万。
 - 苏州地铁线网指挥中心(NCC)线网及线路仿真项目，苏州地铁，106万。

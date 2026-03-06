@@ -8,19 +8,36 @@ title: Publications-zh
 
 ## 期刊论文
 
-- [Research on Holiday Passenger Flow Prediction for Urban Rail Transit in Tourist Cities under Limited Sample Conditions: A Case Study of China.](https://journals.sagepub.com/doi/10.1177/03611981251372473)<br>**Ren, Y.**, Tang, J., Chen, X., Zhao, Q., Zou, J.<br>Transportation Research Record (SCI Q3), 2025
+- **Ren, Y.**, Tang, J., Chen, X., Zhao, Q., & Zou, J. (2025)
+  <br>[Research on Holiday Passenger Flow Prediction for Urban Rail Transit in Tourist Cities under Limited Sample Conditions: A Case Study of China.](https://journals.sagepub.com/doi/10.1177/03611981251372473)
+  <br>有限样本条件下旅游城市城市轨道交通节假日客流预测研究——以中国为例
+  <br>*Transportation Research Record*. (SCI Q3)
 
-- [STGTN: A Short-Term OD Prediction Model for Urban Rail Transit Integrating Multi-Source Features.](https://journals.sagepub.com/doi/10.1177/03611981251372473)<br>**Ren, Y.**, Tang, J., Ying, C., Dong, Q.<br>Journal of Intelligent Transportation Systems (SCI Q2), 2026
+- **Ren, Y.**, Tang, J., Ying, C., Dong, Q. (2026)
+  <br>[STGTN: A Short-Term OD Prediction Model for Urban Rail Transit Integrating Multi-Source Features.](https://journals.sagepub.com/doi/10.1177/03611981251372473)
+  <br>STGTN：融合多源特征的城市轨道交通短时 OD 预测模型
+  <br>*Journal of Intelligent Transportation Systems*. (SCI Q2)
 
-- [Optimization of passenger flow control and parallel bus bridging in urban rail transit based on intelligent transport infrastructure.](https://onlinelibrary.wiley.com/doi/10.1111/mice.13460)<br>Zhao, Q., Tang, J., Shang, W.-L., Li, C., **Ren, Y.**, Quddus, M., Ochieng, W.<br>Computer-Aided Civil and Infrastructure Engineering (SCI Q1), 2025
+- Zhao, Q., Tang, J., Shang, W.-L., Li, C., **Ren, Y.**, Quddus, M., Ochieng, W. (2025)
+  <br>[Optimization of passenger flow control and parallel bus bridging in urban rail transit based on intelligent transport infrastructure.](https://onlinelibrary.wiley.com/doi/10.1111/mice.13460)
+  <br>基于智能交通基础设施的城市轨道交通客流控制与并行公交接驳优化
+  <br>*Computer-Aided Civil and Infrastructure Engineering*. (SCI Q1)
 
-- [Optimization of Fast and Slow Train Coordination Scheduling Based on Fixed Fast Train Timetable for Urban Rail Transit.](https://kns.cnki.net/kcms2/article/abstract?v=iMwhGHIyCLb89c2Y9ZHe2nMG2DdctCQW3b3m_UMMjrH-0RFWqXnSPAK0_O5uDV0iFFYPxp-ambp9-4O22sPBxN5bWGsAMCTai5o9K9RHlSKkQIvvOfS9S3bYtYUZK4bAoioSjWyPOddQuWdfvOWtlHbdoeDK5x2Z3q81nV-C5tSRVEjAL61_Nw==&uniplatform=NZKPT)<br>Dong, Q., Tang, J., Shao, X., Yang, X., **Ren, Y.**<br>Journal of Beijing Jiaotong University (CSCD), 2025
+- 董秋含, 唐金金, 邵欣昀, 杨兴威, **任逸飞** (2025)
+  <br>[基于固定快车运行图的城市轨道交通快慢车协同调度优化](https://kns.cnki.net/kcms2/article/abstract?v=iMwhGHIyCLb89c2Y9ZHe2nMG2DdctCQW3b3m_UMMjrH-0RFWqXnSPAK0_O5uDV0iFFYPxp-ambp9-4O22sPBxN5bWGsAMCTai5o9K9RHlSKkQIvvOfS9S3bYtYUZK4bAoioSjWyPOddQuWdfvOWtlHbdoeDK5x2Z3q81nV-C5tSRVEjAL61_Nw==&uniplatform=NZKPT)
+  <br>*北京交通大学学报* (CSCD)
 
-- [基于理想点法的高速铁路列车停站方案优化](https://renyifei97.github.io/mypaper/journalpaper/基于理想点法的高速铁路列车停站方案优化_查伟雄.pdf)<br>查伟雄, **任逸飞**, 李剑, 严利鑫<br>北京交通大学学报 (CSCD) 2022.08
+- 查伟雄, **任逸飞**, 李剑, 严利鑫 (2022)
+  <br>[基于理想点法的高速铁路列车停站方案优化](https://kns.cnki.net/kcms2/article/abstract?v=iMwhGHIyCLb89c2Y9ZHe2nMG2DdctCQW3b3m_UMMjrH-0RFWqXnSPAK0_O5uDV0iFFYPxp-ambp9-4O22sPBxN5bWGsAMCTai5o9K9RHlSKkQIvvOfS9S3bYtYUZK4bAoioSjWyPOddQuWdfvOWtlHbdoeDK5x2Z3q81nV-C5tSRVEjAL61_Nw==&uniplatform=NZKPT)
+  <br>*北京交通大学学报* (CSCD)
 
-- [基于态势感知理念的交通运输网络安全体系构建](https://renyifei97.github.io/mypaper/journalpaper/基于态势感知理念的交通运输网络安全体系构建_黄祯晨.pdf)<br>黄祯晨, **任逸飞**<br>中国航务周刊 2022.03
+- 黄祯晨, **任逸飞** (2022)
+  <br>[基于态势感知理念的交通运输网络安全体系构建](https://kns.cnki.net/kcms2/article/abstract?v=iMwhGHIyCLYv_eONPYRj89qyUWBpcrnDqgGhp63wideHkg4h0S16sRQoYKdV9atwg4vfzUhmtlsKOJDUb1L1MRemCtj9UID8Gk-S9NiYIt8gTAfSMWmIZbOlwo2YUK2GaAuhl6TZHE66dKVyIUvkpimQHabxMRKdWUZvzooPW3k=&uniplatform=NZKPT)
+  <br>*中国航务周刊*
 
-- [基于车流接续代价最小的编组站配流计划优化研究](https://renyifei97.github.io/mypaper/journalpaper/基于车流接续代价最小的编组站配流计划优化研究_许可.pdf)<br>许可, 马海东, 赵鹏, 马亚峰, **任逸飞**<br>铁道运输与经济 (CSSCI) 2021.02
+- 许可, 马海东, 赵鹏, 马亚峰, **任逸飞** (2021)
+  <br>[基于车流接续代价最小的编组站配流计划优化研究](https://kns.cnki.net/kcms2/article/abstract?v=iMwhGHIyCLbzg3qN5sjeiLDNsHzaKp3vy-sMLKJl4cbfOCFLbMGU5zPKhz61cJ0-l008yTQlquBjM-_N4-wiUNOjnpKDe0Zf4U9wJGRy39m7yK7uJPpbnd8RhCnqMjdP-lay0vN8jAN2RgYp7tdFCXTIcgVp2WPJNtZR_pxBmNI=&uniplatform=NZKPT)
+  <br>*铁道运输与经济* (北大中文核心)
 
   <br>
 
@@ -35,6 +52,6 @@ title: Publications-zh
 
 ---
 
-## 会议论文
+## 学术会议
 
-- 在“第一届智能城市轨道交通运营与管理学术研讨会”（2024年，北京，中国）做口头报告：<br>“Research on Holiday Passenger Flow Prediction for Urban Rail Transit in Tourist Cities under Limited Sample Conditions: A Case Study of China”
+- 在“第一届智能城市轨道交通运营与管理学术研讨会”（2024年，北京，中国）做口头报告：<br>“有限样本条件下旅游城市城市轨道交通节假日客流预测研究——以中国为例”

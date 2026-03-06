@@ -3,7 +3,7 @@ layout: page
 permalink: file/index-zh/index.html
 title: index-zh
 ---
-> 更新时间：2024/08/15 &nbsp;  [English Version (英文)](https://renyifei97.github.io/)
+> 更新时间：2026/03/06 &nbsp;  [English Version (英文)](https://renyifei97.github.io/)
 
 ## 关于我
 
