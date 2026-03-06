@@ -26,6 +26,8 @@ I have participated in **more than 10 industry/contract (horizontal) projects** 
 - R&D of a panoramic passenger-flow perception, prediction and analysis platform for urban rail transit networks, Beijing Metro Operation Co., Ltd., CNY 3,760,000.
 - R&D of an intelligent train operation plan compilation and management platform for networked urban rail transit, Beijing Metro Operation Co., Ltd., CNY 3,350,000.
 
+<br>
+
 ## During the master's period
 
 - Special survey on urban public transport in Nanchang (2019)
