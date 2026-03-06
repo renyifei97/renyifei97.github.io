@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 15th Augest 2024 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/awards-zh/)
+> Lastest Update: 6th March 2026 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/awards-zh/)
 
 ## Academic Scholarship
 
@@ -13,6 +13,8 @@ title: Awards
 - 2021 Provincial Scholarship
 - 2022 First Class Scholarship
 - 2023 Second Class Scholarship
+- 2024 Second Class Scholarship
+- 2025 Second Class Scholarship
 <br>
 
 ## Research Competition

@@ -4,7 +4,7 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-> 更新时间：2024/08/15 &nbsp; [English Version (英文)](https://renyifei97.github.io/awards/)
+> 更新时间：2026/03/06 &nbsp; [English Version (英文)](https://renyifei97.github.io/awards/)
 
 ## 学业奖学金
 
@@ -13,6 +13,8 @@ title: Awards-zh
 - 2021年  省级奖学金
 - 2022年  一等奖学金
 - 2023年  二等奖学金
+- 2024年  二等奖学金
+- 2025年  二等奖学金
 <br>
 
 

@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-> Lastest Update:15th Augest 2024 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/projects-zh/)
+> Lastest Update: 6th March 2026 &nbsp; [中文版本 (Chinese Version)](https://renyifei97.github.io/file/projects-zh/)
 
 ## During the master's period
 
