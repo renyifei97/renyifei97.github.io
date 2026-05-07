@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 6th March 2026 &nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/file/publications-zh/)
+> Lastest Update: 7th May 2026 &nbsp;  [中文版本 (Chinese Version)](https://renyifei97.github.io/file/publications-zh/)
 
 ## Journal Paper
 
@@ -13,7 +13,7 @@ title: Publications
 <br>*Transportation Research Record*. **(SCI Q3)**
 
 - **Ren, Y.**, Tang, J., Ying, C., & Dong, Q. (2026). 
-<br>[STGTN: A Short-Term OD Prediction Model for Urban Rail Transit Integrating Multi-Source Features.](https://journals.sagepub.com/doi/10.1177/03611981251372473) 
+<br>[A Multi-Source Feature-Integrated Spatiotemporal Graph Transformer Network for Short-Term Origin–Destination Passenger Flow Prediction in Urban Rail Transit.](https://doi.org/10.1080/15472450.2026.2669875) 
 <br>*Journal of Intelligent Transportation Systems*. **(SCI Q2)**
 
 - Zhao, Q., Tang, J., Shang, W.-L., Li, C., **Ren, Y.**, Quddus, M., & Ochieng, W. (2025). 
@@ -53,6 +53,9 @@ East China Jiaotong University 2022 Master's thesis
 ## Academic Conference
 
 - Presented "Research on Holiday Passenger Flow Prediction for Urban Rail Transit in Tourist Cities under Limited Sample Conditions: A Case Study of China" at the 1st Academic Symposium on Intelligent Urban Rail Transit Operation and Management (2024, Beijing, China)
+- Liu, X., Tang, J., Dong, Q., Yang, X., Pan, Y., **Ren, Y.**, Shao, X., & Zhao, Q. (2026).
+<br>[Differentiated Design of Urban Rail Transit Operation Diagrams Based on Time-Period Multi-Objective Optimization.]
+<br>ITT CHCA TEC & ISTTCA 2026
     
 
 

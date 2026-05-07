@@ -4,7 +4,7 @@ permalink: /file/publications-zh/index.html
 title: Publications-zh
 ---
 
-> 更新时间：2026/03/06 &nbsp;  [English Version (英文)](https://renyifei97.github.io/publications/)
+> 更新时间：2026/05/07 &nbsp;  [English Version (英文)](https://renyifei97.github.io/publications/)
 
 ## 期刊论文
 
@@ -14,8 +14,8 @@ title: Publications-zh
   <br>*Transportation Research Record*. **(SCI Q3)**
 
 - **Ren, Y.**, Tang, J., Ying, C., Dong, Q. (2026)
-  <br>[STGTN: A Short-Term OD Prediction Model for Urban Rail Transit Integrating Multi-Source Features.](https://journals.sagepub.com/doi/10.1177/03611981251372473)
-  <br>STGTN：融合多源特征的城市轨道交通短时 OD 预测模型
+  <br>[A Multi-Source Feature-Integrated Spatiotemporal Graph Transformer Network for Short-Term Origin–Destination Passenger Flow Prediction in Urban Rail Transit.](https://doi.org/10.1080/15472450.2026.2669875)
+  <br>面向城市轨道交通短时起讫点客流预测的多源特征融合时空图 Transformer 网络
   <br>*Journal of Intelligent Transportation Systems*. **(SCI Q2)**
 
 - Zhao, Q., Tang, J., Shang, W.-L., Li, C., **Ren, Y.**, Quddus, M., Ochieng, W. (2025)
@@ -55,3 +55,7 @@ title: Publications-zh
 ## 学术会议
 
 - 在“第一届智能城市轨道交通运营与管理学术研讨会”（2024年，北京，中国）做口头报告：“有限样本条件下旅游城市城市轨道交通节假日客流预测研究——以中国为例”
+- Liu, X., Tang, J., Dong, Q., Yang, X., Pan, Y., **Ren, Y.**, Shao, X., & Zhao, Q. (2026).
+<br>Differentiated Design of Urban Rail Transit Operation Diagrams Based on Time-Period Multi-Objective Optimization.
+<br>面向城市轨道交通运营图差异化设计的多目标时间周期优化
+<br>中国公路建设行业协会沉管隧道分会技术交流大会暨第九届交通运输与土木建筑国际学术交流大会 (ITT CHCA TEC & ISTTCA 2026)
