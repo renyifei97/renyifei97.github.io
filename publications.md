@@ -54,7 +54,7 @@ East China Jiaotong University 2022 Master's thesis
 
 - Presented "Research on Holiday Passenger Flow Prediction for Urban Rail Transit in Tourist Cities under Limited Sample Conditions: A Case Study of China" at the 1st Academic Symposium on Intelligent Urban Rail Transit Operation and Management (2024, Beijing, China)
 - Liu, X., Tang, J., Dong, Q., Yang, X., Pan, Y., **Ren, Y.**, Shao, X., & Zhao, Q. (2026).
-<br>[Differentiated Design of Urban Rail Transit Operation Diagrams Based on Time-Period Multi-Objective Optimization.]
+<br>Differentiated Design of Urban Rail Transit Operation Diagrams Based on Time-Period Multi-Objective Optimization.
 <br>ITT CHCA TEC & ISTTCA 2026
     
 
