@@ -19,7 +19,7 @@ title: Publications-zh
   <br>*Journal of Intelligent Transportation Systems*. **(SCI Q2)**
 
 - Zhao, Q., Tang, J., Shang, W.-L., Li, C., **Ren, Y.**, Quddus, M., Ochieng, W. (2025)
-  <br>[Optimization of passenger flow control and parallel bus bridging in urban rail transit based on intelligent transport infrastructure.](https://onlinelibrary.wiley.com/doi/10.1111/mice.13460)
+  <br>[Optimization of Passenger Flow Control and Parallel Bus Bridging in Urban Rail Transit Based on Intelligent Transport Infrastructure.](https://onlinelibrary.wiley.com/doi/10.1111/mice.13460)
   <br>基于智能交通基础设施的城市轨道交通客流控制与并行公交接驳优化
   <br>*Computer-Aided Civil and Infrastructure Engineering*. **(SCI Q1)**
 
